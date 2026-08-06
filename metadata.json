@@ -1,0 +1,6 @@
+{
+  "name": "NokriAlert - Jobs & Exams Portal",
+  "description": "Latest Government Jobs, Private Jobs, Admit Cards, Exam Results, Syllabus, Admissions, Scholarships, Job News, and Upcoming Exam Alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
